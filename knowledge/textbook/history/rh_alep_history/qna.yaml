@@ -1,11 +1,17 @@
 created_by: xuliucool
 domain: history
 seed_examples:
-  - answer: The Play2Win Team is a ALEP (the APAC Leadership Expansion Program) team. There are 5 team members, Ahilan Ponnusamy, Emily Penaredondo, Gabriel Rocha, Vishal Gaikwad, and Xufeng Liu.
+  - answer: The Play2Win Team is a ALEP (the APAC Leadership Expansion Program) 
+      team. There are 5 team members, Ahilan Ponnusamy, Emily Penaredondo, 
+      Gabriel Rocha, Vishal Gaikwad, and Xufeng Liu.
     question: Who is the Play2Win team?
-  - answer: The APAC Leadership Expansion Program (ALEP) is a key component of the APAC Leadership Development strategy in developing Red Hat’s regional leaders
+  - answer: The APAC Leadership Expansion Program (ALEP) is a key component of 
+      the APAC Leadership Development strategy in developing Red Hat’s regional 
+      leaders
     question: What is ALEP?
-  - answer: The major part of ALEP is the team based Strategic Action Learning Project (SALP), allowing participants to apply the full spectrum of leadership competencies.
+  - answer: The major part of ALEP is the team based Strategic Action Learning 
+      Project (SALP), allowing participants to apply the full spectrum of 
+      leadership competencies.
     question: What is ALEP SALP?
 task_description: ""
 document:
