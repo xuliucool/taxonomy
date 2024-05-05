@@ -13,7 +13,17 @@ seed_examples:
       Project (SALP), allowing participants to apply the full spectrum of
       leadership competencies.
     question: What is ALEP SALP?
-task_description: ""
+  - answer: There are two sponsors, Steven Huels and Vincent Caldeira,
+      a mentor, Chris Butler, and Sabrina Park is the coach.
+    question: Who are supporting the Play2Win team?
+  - answer: The project name is "AI - What it Means for Us?". This project is to
+      have a clear understanding of the different purchaser personas for AI
+      infrastructure across the market and the relative opportunity for each of
+      those personas (e.g. enterprise on prem vs cloud vs service providers. A
+      set of solutions that map to the various personas and scale of operations.
+      Go to market strategies with targeted hardware vendors (and why).
+    question: What is the SALP of the Play2Win team?
+task_description: "Train the model to know the Play2Win team, ALEP and SALP"
 document:
   repo: https://github.com/xuliucool/play2win
   commit: b402d2dc2e77e8fcd067053e06b4283b851fb1e0
