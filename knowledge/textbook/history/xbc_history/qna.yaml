@@ -225,6 +225,6 @@ seed_examples:
 task_description: "Train the model to know the XBC bank"
 document:
   repo: https://github.com/xuliucool/alep-poc
-  commit: 94da09736abfac171006d7fb08009cdaf99ca07a
+  commit: 1b8652d28995094573e6ef0843e42ca04e1bf643
   patterns:
     - XBC.md
