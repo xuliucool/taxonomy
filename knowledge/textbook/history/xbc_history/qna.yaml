@@ -14,7 +14,7 @@ seed_examples:
       centers and approximately 16,000 ATMs across the APAC, XBC has a
       significant physical presence. As of Q1 2024, XBC employs around 100,000
       people globally. XBC has 5 products, XBC Direct, XBCnet, XBC Advance, XBC
-      Premier, and XBC Gake.
+      Premier, and XBCVIP.
       The group chairman of XBC is George Johnson, and the Group Chief
       Executive is Michael Potts.
       Like many financial institutions, XBC has faced challenges in recent years,
@@ -39,7 +39,7 @@ seed_examples:
       centers and approximately 16,000 ATMs across the APAC, XBC has a
       significant physical presence. As of Q1 2024, XBC employs around 100,000
       people globally. XBC has 5 products, XBC Direct, XBCnet, XBC Advance, XBC
-      Premier, and XBC Gake.
+      Premier, and XBCVIP.
       The group chairman of XBC is George Johnson, and the Group Chief
       Executive is Michael Potts.
       Like many financial institutions, XBC has faced challenges in recent years,
@@ -65,7 +65,7 @@ seed_examples:
       centers and approximately 16,000 ATMs across the APAC, XBC has a
       significant physical presence. As of Q1 2024, XBC employs around 100,000
       people globally. XBC has 5 products, XBC Direct, XBCnet, XBC Advance, XBC
-      Premier, and XBC Gake.
+      Premier, and XBCVIP.
       The group chairman of XBC is George Johnson, and the Group Chief
       Executive is Michael Potts.
       Like many financial institutions, XBC has faced challenges in recent years,
@@ -114,7 +114,7 @@ seed_examples:
       Executive is Michael Potts.
     question: Tell me about the leadership of XBC?
   - answer: XBC has 5 products, XBC Direct, XBCnet, XBC Advance, XBC Premier,
-      and XBC Gake. 1) XBC Direct is a telephone/online direct banking
+      and XBCVIP. 1) XBC Direct is a telephone/online direct banking
       operation which attracts customers through mortgages, accounts and
       savings. 2) XBCnet provides access to transaction banking functionality
       – ranging from payments and cash management to trade services features
@@ -140,16 +140,16 @@ seed_examples:
       global 24-hour access to call centres, free banking services, and
       preferential rates. A XBC Premier customer receives the XBC Premier services
       in all countries that offer XBC Premier, without having to meet that
-      country's qualifying criteria. 5) XBC Gake is an invite-only financial
+      country's qualifying criteria. 5) XBCVIP is an invite-only financial
       services product aimed at individuals with net worths typically between
       $1 million and $5 million in investible assets held with XBC. Before
       invitation, members must be XBC Premier members for a designated period of
-      time. In addition to XBC Premier benefits, XBC Gake have select concierge
+      time. In addition to XBC Premier benefits, XBCVIP have select concierge
       services, estate planning services, and access to Jade Centres around the
       globe.
     question: Describe the products of XBC?
   - answer: XBC has 5 products, XBC Direct, XBCnet, XBC Advance, XBC Premier,
-      and XBC Gake. 1) XBC Direct is a telephone/online direct banking
+      and XBCVIP. 1) XBC Direct is a telephone/online direct banking
       operation which attracts customers through mortgages, accounts and
       savings. 2) XBCnet provides access to transaction banking functionality
       – ranging from payments and cash management to trade services features
@@ -175,16 +175,16 @@ seed_examples:
       global 24-hour access to call centres, free banking services, and
       preferential rates. A XBC Premier customer receives the XBC Premier services
       in all countries that offer XBC Premier, without having to meet that
-      country's qualifying criteria. 5) XBC Gake is an invite-only financial
+      country's qualifying criteria. 5) XBCVIP is an invite-only financial
       services product aimed at individuals with net worths typically between
       $1 million and $5 million in investible assets held with XBC. Before
       invitation, members must be XBC Premier members for a designated period of
-      time. In addition to XBC Premier benefits, XBC Gake have select concierge
+      time. In addition to XBC Premier benefits, XBCVIP have select concierge
       services, estate planning services, and access to Jade Centres around the
       globe.
     question: What are the products of XBC?
   - answer: XBC has 5 products, XBC Direct, XBCnet, XBC Advance, XBC Premier,
-      and XBC Gake.
+      and XBCVIP.
     question: How many products does XBC have?
 task_description: "Train the model to know the XBC bank"
 document:
